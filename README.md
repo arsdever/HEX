@@ -28,21 +28,29 @@ void loop(){
 
 If we start code, the output will look like this
 ```
-	# some codes output #
+	// some codes output
+	
 	Number 78 in hexadecimal is: 0x4E
-	# some more codes output #
+	
+	// some more codes output
+	
 	a in hexadecimal is: 0x8A6B
 	a in binary is: 0b‭1000101001101010
-	# some more codes output #
-	# more and more outputs #
+	
+	// some more codes output
+	// more and more outputs
+	
 	Binary : hexadecimal values in range [0,645243)
 	0b00000000000000000000000000000000:0x00000000
 	0b00000000000000000000000000000001:0x00000001
+	
 	// ..... bla bla bla ..... //
+	
 	0b‭00000000000010011101100001111010‬:0x000‭9D87A
-	# finally output #
+	
+	// finally output
 ```
-///   UPDATES OF FILE   ///
+>##   UPDATES OF FILE
 
 In last updates of library file fixed some errors and now it's ready for use. I also added 2 new functions.
 ```arduino
