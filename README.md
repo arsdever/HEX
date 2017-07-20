@@ -58,6 +58,4 @@ char charToByte(const char& by); // Returns the real number from char number. Ex
 void fromString(const String& str,byte* ret) // Converts hexadecimal String of byte to byte. Example fromString("5D") -> 93
 ```
 
-// Thanks a lot using my library //
-
 If my code isn't working please contact to me to fix any error in that. Email: arsen.gharagyozyn.96@gmail.com
